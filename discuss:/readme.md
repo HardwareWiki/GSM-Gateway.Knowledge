@@ -1,1 +1,2 @@
-https://www.reddit.com/r/selfhosted/comments/1dcgedg/selfhosted_sms_gateway_using_4g_sim/
+- https://www.reddit.com/r/selfhosted/comments/1dcgedg/selfhosted_sms_gateway_using_4g_sim/
+- https://stackoverflow.com/questions/12511070/build-an-own-sms-gateway
